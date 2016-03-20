@@ -6,14 +6,20 @@ Most of the information holds good, as given by Original Author. Important updat
 
 
 ## CLI usage ##
-***migrate.sh <postgresql-db-name> [mysql-db-engine]***
+```bash
+migrate.sh <postgresql-db-name> [mysql-db-engine]
+```
 mysql-db-engine is optional and, it defaults to MyISAM
 
+This utility takes dump of the postgresql database using pg_dump command before converting it to mysql.
 
-## Original Author
-Credit goes to:
+
+## (Credit goest to) Original Author ##
+
 Author: James Grant
+
 Lightbox Technolgoies
+
 http://www.lightbox.org
 
 
