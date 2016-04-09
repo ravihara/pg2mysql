@@ -14,7 +14,7 @@ mysql-db-engine is optional and, it defaults to MyISAM
 This utility takes dump of the postgresql database using pg_dump command before converting it to mysql.
 
 
-## (Credit goest to) Original Author ##
+## (Credit goes to) Original Author ##
 
 Author: James Grant
 
